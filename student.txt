@@ -1,0 +1,5 @@
+Student data
+Name: Grifith
+Course: IT
+Grade: 99.00
+--------------------
